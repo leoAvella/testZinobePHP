@@ -1,0 +1,18 @@
+{
+    "name": "leo/test-zinobe",
+    "description": "Prueba Zinobe Back End - PHP",
+    "type": "project",
+    "require": {
+        "illuminate/database": "5.5",
+        "guzzlehttp/guzzle": "6.5.2",
+        "jenssegers/blade": "^1.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leoAvella",
+            "email": "dleonardoavella@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
